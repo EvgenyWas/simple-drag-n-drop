@@ -1,4 +1,4 @@
 # Simple drag&drop
-Simple drag&amp;drop based on the example of a mini-clone of Trello.
+Simple drag&amp;drop based on the example's a mini-clone of Trello.
 
 [Watch demo](https://evgenywas.github.io/simple-drag-n-drop/)
